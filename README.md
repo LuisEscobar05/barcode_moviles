@@ -5,8 +5,8 @@ Aplicacion para la materia de moviles1
 ## Features
 
 
-- [Puede leer un codigo QR que redireccione a una pagina web]
-- [Puede leer un codigo QR y que muestre el texto en una vista] 
+- Puede leer un codigo QR que redireccione a una pagina web
+- Puede leer un codigo QR y que muestre el texto en una vista 
 
 ### Librerias
 
