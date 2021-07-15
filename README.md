@@ -1,16 +1,13 @@
-# flutter_provider
+# flutter barcode
 
-A new Flutter project.
+Aplicacion para la materia de moviles1 
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- [Puede leer un codigo QR que redireccione a una pagina web]
+- [Puede leer un codigo QR y que muestre el texto en una vista] 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Librerias
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [flutter_barcode_scanner 2.0.0](https://pub.dev/packages/flutter_barcode_scanner/)
